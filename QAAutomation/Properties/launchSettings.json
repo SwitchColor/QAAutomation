@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "QAAutomation": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "ENVIRONMENT": "QA"
+      },
+      "nativeDebugging": true
+    }
+  }
+}
