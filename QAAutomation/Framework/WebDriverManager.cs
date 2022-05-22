@@ -1,15 +1,11 @@
-﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
+﻿using QAAutomation.CommonFramework.Utilities;
 using OpenQA.Selenium;
 using OpenQA.Selenium.Chrome;
-using OpenQA.Selenium.Support.UI;
-using SeleniumExtras.WaitHelpers;
-using System;
 using OpenQA.Selenium.IE;
+using OpenQA.Selenium.Support.UI;
+using System;
 using System.Collections.Generic;
 using System.Text;
-
-using QAAutomation.Utilities;
-
 
 namespace QAAutomation.Framework
 {

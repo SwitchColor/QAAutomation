@@ -1,4 +1,9 @@
-﻿namespace QAAutomation.Utilities
+﻿using System;
+using System.Collections.Generic;
+using System.Text;
+
+
+namespace QAAutomation.CommonFramework.Utilities
 {
     public class UserAccountSettings
     {

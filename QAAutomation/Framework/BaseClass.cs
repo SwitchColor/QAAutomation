@@ -6,13 +6,14 @@ using System.Text;
 using System.IO;
 using System.Reflection;
 using Microsoft.Extensions.Configuration;
-using QAAutomation.Utilities;
+using QAAutomation.CommonFramework.Utilities;
 using QAAutomation.Objects;
 using QAAutomation;
 
 
 namespace QAAutomation.Framework
 {
+    [TestClass]
     public class BaseClass
     {
 

@@ -29,7 +29,6 @@
 		<PackageReference Include="WebDriver.ChromeDriver.win32" Version="99.0.4844.51" />
 	</ItemGroup>
 	<ItemGroup>
-		<Folder Include="Tests\" />
 		<Folder Include="Properties\" />
 	</ItemGroup>
 

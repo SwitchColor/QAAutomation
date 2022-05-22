@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace QAAutomation.Utilities
+namespace QAAutomation.CommonFramework.Utilities
 {
     public class AppSettings
     {

@@ -6,7 +6,7 @@ using System.IO;
 using System.Linq;
 using System.Text;
 
-namespace QAAutomation.Utilities
+namespace QAAutomation.CommonFramework.Utilities
 {
     class LaunchSettings
     {
